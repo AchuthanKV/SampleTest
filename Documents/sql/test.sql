@@ -1,0 +1,5 @@
+CREATE PROCEDURE [dbo].[spTest]
+BEGIN
+  DECLARE @SQL
+END
+GO
